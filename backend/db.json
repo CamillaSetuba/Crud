@@ -1,0 +1,79 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+",
+      "price": 5000.89
+    },
+    {
+      "id": 4,
+      "name": "Xaiomi note 8",
+      "price": 1000
+    },
+    {
+      "id": 5,
+      "name": "Monitor LG 32 polegadas widscreem",
+      "price": 1200
+    },
+    {
+      "name\n": "Geladeira",
+      "price": "1900",
+      "id": 6
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125,
+      "id": 7
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125,
+      "id": 8
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125,
+      "id": 9
+    },
+    {
+      "name": "Produto de teste",
+      "price": 127,
+      "id": 10
+    },
+    {
+      "name": "Produto de teste",
+      "price": 127,
+      "id": 11
+    },
+    {
+      "name": "Produto de teste",
+      "price": 127,
+      "id": 12
+    },
+    {
+      "name": "Produto de teste",
+      "price": 127,
+      "id": 13
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 14
+    },
+    {
+      "name": "Teste Formulário",
+      "price": "9.99",
+      "id": 15
+    }
+  ]
+}
